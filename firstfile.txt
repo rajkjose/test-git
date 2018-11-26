@@ -1,2 +1,2 @@
 this is my first file for git test
-added second line
+added second line$$$
