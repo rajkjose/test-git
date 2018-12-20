@@ -2,4 +2,4 @@ initial edits
 adding features in branch1
 addding features in branch2
 feature: branch1,branch2
-
+minor changes from master
