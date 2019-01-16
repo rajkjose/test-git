@@ -3,4 +3,8 @@ adding features in branch1
 addding features in branch2
 feature: branch1,branch2
 minor changes from master
+
 adding new feature from raj user1
+
+adding changes from: raj user2
+
